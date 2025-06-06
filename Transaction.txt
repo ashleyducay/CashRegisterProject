@@ -1,0 +1,18 @@
+=== Transaction ===
+Date & Time: 2025-06-06 13:13:00
+Cashier: AshleyMay
+ 2X 1-PC Chicken Meal         PHP 120.00
+ 1X Spaghetti Meal            PHP 85.00
+ 6X Flavor Shots Meal         PHP 95.00
+ 3X Flavor Shots Ala Carte    PHP 65.00
+TOTAL: PHP 1090.00
+----------------------------
+=== Transaction ===
+Date & Time: 2025-06-06 13:14:58
+Cashier: Nayeon
+ 1X Chicken Burger Combo      PHP 105.00
+ 3X Chicken Burger            PHP 45.00
+ 1X Flavor Shots Meal         PHP 95.00
+ 2X Flavor Shots Ala Carte    PHP 65.00
+TOTAL: PHP 465.00
+----------------------------
